@@ -2,7 +2,7 @@
 """
 Markdown Counter (CLI version)
 - Scans all Markdown files in the repo
-- Prints counts of headings (#), links [text](url), and code block(```...```)
+- Prints counts of headings (#), links [text](url), and code blocks(```...```)
 """
 
 import os, re
